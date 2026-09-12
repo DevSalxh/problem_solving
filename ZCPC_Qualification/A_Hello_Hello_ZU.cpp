@@ -4,6 +4,10 @@
 
 using namespace std;
 
-int main() {
+void solve(){
     cout << "Hello Hello ZU";
+}
+
+int main() {
+    solve();
 }
